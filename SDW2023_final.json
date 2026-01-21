@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Pyterson",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pyterson, investir é garantir um futuro financeiro seguro. Comece hoje e veja seu dinheiro crescer!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pip",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista no seu futuro: pequenos passos hoje, grandes conquistas amanhã!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pep",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pep, investir é garantir seu futuro e fazer seu dinheiro trabalhar para você! Comece hoje!"
+      }
+    ]
+  }
+]
